@@ -1,2 +1,3 @@
 Respuestas a las preguntas de la pr´actica 3
 Conseguir desarrollar una parte especifica del software sin modificar el original. Y cuando se termina el desarrollo se aplican los cambios al original.
+La ventaja es que permite dejar una rama lineal, haciendo mas claro el desarrollo que se hizo.
