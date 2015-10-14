@@ -1,1 +1,2 @@
 Respuestas a las preguntas de la pr´actica 3
+Conseguir desarrollar una parte especifica del software sin modificar el original. Y cuando se termina el desarrollo se aplican los cambios al original.
